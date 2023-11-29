@@ -1,0 +1,21 @@
+header{
+    background-color: #222;
+    color: #fff;
+    padding: 50px;
+}
+h2{
+    font-size: 30px;
+}
+p{
+    font-size: 30px;
+}
+nav{
+    color: white;
+    font-size: 30px;
+}
+main{
+    text-align:center ;
+}
+footer{
+    text-align:center ;
+}
